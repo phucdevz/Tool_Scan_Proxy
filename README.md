@@ -22,4 +22,6 @@ Chức năng chính:
 ## 🚀 Hướng dẫn sử dụng
 
 ```bash
+git clone https://github.com/phucdevz/Tool_Scan_Proxy.git
+cd  Tool_Scan_Proxy
 python scan.py
